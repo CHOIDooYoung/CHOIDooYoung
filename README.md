@@ -1,6 +1,6 @@
-- 👋 Hi, I’m YUOUNG
+- 👋 Hi, I’m YOUNG
 
-Data mining, especially for social science data, is rapidly evolving and gaining popularity. Nowadays, societies produce a lot of written information through news, social media, policy, and legal documents. 
+Data mining is rapidly evolving and gaining popularity, especially for social science data. Nowadays, societies produce a lot of written information through news, social media, policy, and legal documents. 
 
 Text data is the future of data science and analytics. Academics and research agencies use data mining to measure data, detect patterns and trends in real-time, understand text sentiments, uncover crucial insights, and construct prediction models. Furthermore, predictive models and data classification help solve economic, financial, and political issues. 
 
